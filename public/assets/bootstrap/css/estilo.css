@@ -1,0 +1,9 @@
+
+html, body {
+padding-top: 4.5rem;
+}
+
+/* Adds margin bottom to the images NOT IN panels */
+.image-grid img {
+    margin-bottom: 1rem;
+ }
